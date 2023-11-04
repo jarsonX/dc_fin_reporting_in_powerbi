@@ -1,0 +1,1001 @@
+timestamp,product,unit_price,count,payment_type
+1.6661E+12,Worcestershire Sauce,$15.17 ,21,visa
+1.66545E+12,Tomato - Tricolor Cherry,$14.56 ,46,americanexpress
+1.66491E+12,"Beans - Black Bean, Dry",$26.63 ,20,americanexpress
+1.66293E+12,Danishes - Mini Cheese,$22.05 ,47,mastercard
+1.66351E+12,Pork - Backs - Boneless,$15.66 ,35,visa
+1.66463E+12,Pomegranates,$33.07 ,27,visa
+1.66674E+12,Wine - Savigny - Les - Beaune,$26.25 ,14,americanexpress
+1.66706E+12,Versatainer Nc - 9388,$11.57 ,36,americanexpress
+1.66552E+12,Fib N9 - Prague Powder,$29.74 ,46,visa
+1.66301E+12,Eggplant Italian,$32.85 ,34,mastercard
+1.66489E+12,Wine - Coteaux Du Tricastin Ac,$20.07 ,25,visa
+1.66234E+12,The Pop Shoppe - Root Beer,$39.40 ,17,americanexpress
+1.66422E+12,Appetizer - Tarragon Chicken,$20.45 ,36,americanexpress
+1.66341E+12,Sausage - Meat,$32.20 ,30,americanexpress
+1.66668E+12,Coffee Beans - Chocolate,$20.42 ,24,mastercard
+1.66726E+12,"Beets - Candy Cane, Organic",$27.64 ,2,americanexpress
+1.66317E+12,Daves Island Stinger,$16.51 ,41,americanexpress
+1.66509E+12,Cafe Royale,$30.02 ,31,visa
+1.66732E+12,Chicken - Ground,$24.00 ,38,visa
+1.66641E+12,"Wine - White, Pelee Island",$20.97 ,42,americanexpress
+1.66274E+12,Icecream - Dstk Super Cone,$34.43 ,39,americanexpress
+1.66265E+12,Soup - Campbells - Tomato,$39.60 ,38,americanexpress
+1.66623E+12,Flavouring Vanilla Artificial,$39.59 ,4,visa
+1.66536E+12,Peach - Halves,$18.33 ,29,mastercard
+1.66237E+12,"Bread - Pullman, Sliced",$21.19 ,34,mastercard
+1.66258E+12,"Roe - Lump Fish, Black",$35.62 ,23,americanexpress
+1.6664E+12,Trueblue - Blueberry Cranberry,$30.18 ,33,mastercard
+1.66352E+12,Wine - Masi Valpolocell,$37.97 ,26,americanexpress
+1.66572E+12,Ham - Procutinni,$13.74 ,23,visa
+1.66513E+12,Pork - Belly Fresh,$35.21 ,5,visa
+1.66251E+12,Beer - Muskoka Cream Ale,$26.92 ,25,visa
+1.66202E+12,Bar - Granola Trail Mix Fruit Nut,$10.34 ,11,visa
+1.66547E+12,Beef - Diced,$11.30 ,34,mastercard
+1.6638E+12,Oil - Grapeseed Oil,$26.45 ,2,mastercard
+1.66324E+12,Cookies Oatmeal Raisin,$10.68 ,36,americanexpress
+1.66427E+12,"Chilli Paste, Ginger Garlic",$34.55 ,43,visa
+1.66259E+12,"Pasta - Fettuccine, Egg, Fresh",$17.92 ,43,visa
+1.66285E+12,Dc Hikiage Hira Huba,$27.37 ,31,mastercard
+1.66285E+12,"Veal - Tenderloin, Untrimmed",$30.33 ,5,americanexpress
+1.66302E+12,"Juice - Tomato, 48 Oz",$28.06 ,22,mastercard
+1.66664E+12,Lobster - Live,$11.78 ,26,visa
+1.66532E+12,Cabbage - Nappa,$27.26 ,24,mastercard
+1.66343E+12,Puree - Mango,$20.35 ,6,mastercard
+1.66379E+12,Relish,$34.66 ,38,visa
+1.66293E+12,Cake - Box Window 10x10x2.5,$23.33 ,23,mastercard
+1.66603E+12,Cake - Box Window 10x10x2.5,$15.55 ,36,mastercard
+1.66376E+12,"Soup - Knorr, Country Bean",$26.27 ,4,visa
+1.6667E+12,Salmon Steak - Cohoe 6 Oz,$26.07 ,23,visa
+1.66203E+12,Whmis - Spray Bottle Trigger,$30.15 ,3,americanexpress
+1.66242E+12,Wine - Chablis 2003 Champs,$14.15 ,36,visa
+1.66545E+12,Rice - Long Grain,$26.42 ,49,visa
+1.66433E+12,Shrimp - Black Tiger 16/20,$26.41 ,37,mastercard
+1.66524E+12,Chips Potato Reg 43g,$19.26 ,49,americanexpress
+1.663E+12,Squid - Tubes / Tenticles 10/20,$31.08 ,26,americanexpress
+1.66409E+12,Iced Tea Concentrate,$13.94 ,47,visa
+1.66384E+12,Goulash Seasoning,$25.09 ,39,mastercard
+1.66372E+12,Beef - Short Loin,$38.58 ,13,visa
+1.66543E+12,Puree - Passion Fruit,$16.52 ,17,mastercard
+1.66551E+12,Pernod,$38.12 ,12,visa
+1.66632E+12,Beans - Fava Fresh,$12.23 ,11,americanexpress
+1.66479E+12,"Beef - Ox Tail, Frozen",$17.73 ,27,visa
+1.66456E+12,Scrubbie - Scotchbrite Hand Pad,$21.44 ,6,americanexpress
+1.66391E+12,Plaintain,$24.33 ,31,mastercard
+1.66516E+12,Milk - Buttermilk,$32.32 ,45,mastercard
+1.66281E+12,Rabbit - Legs,$28.33 ,32,visa
+1.66618E+12,Pineapple - Regular,$22.27 ,45,mastercard
+1.66339E+12,Coffee Cup 8oz 5338cd,$35.99 ,45,americanexpress
+1.66524E+12,"Mop Head - Cotton, 24 Oz",$27.96 ,21,mastercard
+1.66204E+12,Lamb Leg - Bone - In Nz,$38.12 ,20,mastercard
+1.66521E+12,Danishes - Mini Raspberry,$12.52 ,39,mastercard
+1.66344E+12,Wine - Coteaux Du Tricastin Ac,$17.59 ,10,americanexpress
+1.66351E+12,Oil - Sunflower,$18.23 ,26,mastercard
+1.66246E+12,Pie Filling - Pumpkin,$15.02 ,21,visa
+1.66377E+12,"Tomatoes - Cherry, Yellow",$35.41 ,21,americanexpress
+1.66521E+12,Creamers - 10%,$20.14 ,28,visa
+1.66291E+12,Sauerkraut,$20.13 ,25,mastercard
+1.66238E+12,Syrup - Chocolate,$11.81 ,31,mastercard
+1.6635E+12,"Sauce - Gravy, Au Jus, Mix",$16.99 ,7,visa
+1.66602E+12,Foil - Round Foil,$19.40 ,16,visa
+1.66641E+12,"Soup - Campbells, Chix Gumbo",$26.10 ,36,americanexpress
+1.66661E+12,Wine - George Duboeuf Rose,$31.40 ,28,americanexpress
+1.66714E+12,Tomatoes - Grape,$26.13 ,23,mastercard
+1.66614E+12,Wine - Vovray Sec Domaine Huet,$20.44 ,39,americanexpress
+1.66483E+12,"Sauce - Black Current, Dry Mix",$16.77 ,42,mastercard
+1.66233E+12,Wine - Sawmill Creek Autumn,$32.02 ,14,visa
+1.66643E+12,Pants Custom Dry Clean,$35.35 ,29,visa
+1.66605E+12,Apples - Sliced / Wedge,$34.77 ,17,visa
+1.66528E+12,Ice Cream - Super Sandwich,$38.83 ,14,visa
+1.66421E+12,"Wine - Magnotta, Merlot Sr Vqa",$21.95 ,13,mastercard
+1.66346E+12,Carbonated Water - Blackcherry,$24.25 ,18,visa
+1.66365E+12,"Shrimp - 21/25, Peel And Deviened",$17.00 ,19,mastercard
+1.66599E+12,"Capon - Breast, Wing On",$10.99 ,33,americanexpress
+1.66728E+12,Soup - Campbells Asian Noodle,$13.59 ,25,visa
+1.66596E+12,Lemon Grass,$22.60 ,50,visa
+1.66497E+12,Parsley - Dried,$33.70 ,40,americanexpress
+1.66281E+12,Chocolate - White,$17.06 ,13,americanexpress
+1.66468E+12,Lettuce - Belgian Endive,$31.68 ,34,mastercard
+1.66363E+12,Oats Large Flake,$31.21 ,12,mastercard
+1.66723E+12,Gloves - Goldtouch Disposable,$10.73 ,4,americanexpress
+1.66482E+12,Celery,$22.72 ,46,mastercard
+1.6625E+12,Sponge Cake Mix - Chocolate,$24.57 ,50,americanexpress
+1.66352E+12,Wine - Rubyport,$10.72 ,44,mastercard
+1.66247E+12,"Lid - Translucent, 3.5 And 6 Oz",$16.13 ,29,americanexpress
+1.66692E+12,Beer - Sleemans Cream Ale,$19.78 ,11,mastercard
+1.66727E+12,Soup - Base Broth Beef,$22.87 ,33,mastercard
+1.66285E+12,Magnotta Bel Paese Red,$21.02 ,34,americanexpress
+1.66697E+12,"Pineapple - Canned, Rings",$33.96 ,41,americanexpress
+1.66483E+12,Chinese Lemon Pork,$19.89 ,25,visa
+1.6666E+12,Pate Pans Yellow,$31.90 ,11,visa
+1.66299E+12,Tart - Lemon,$17.50 ,30,mastercard
+1.66369E+12,Salad Dressing,$26.26 ,36,americanexpress
+1.66585E+12,Pastry - Baked Scones - Mini,$32.92 ,6,visa
+1.66425E+12,Sproutsmustard Cress,$20.58 ,19,americanexpress
+1.66479E+12,"Extract - Vanilla,artificial",$16.72 ,10,visa
+1.66635E+12,Rabbit - Saddles,$23.43 ,30,mastercard
+1.66306E+12,Peach - Fresh,$13.73 ,13,visa
+1.6659E+12,Browning Caramel Glace,$21.42 ,25,mastercard
+1.6657E+12,"Syrup - Monin, Amaretta",$27.06 ,40,mastercard
+1.66251E+12,Wine - Lamancha Do Crianza,$17.57 ,30,visa
+1.66729E+12,Cleaner - Pine Sol,$30.43 ,8,mastercard
+1.66699E+12,Crab - Meat,$21.82 ,33,mastercard
+1.66732E+12,"Fish - Artic Char, Cold Smoked",$17.81 ,2,mastercard
+1.66499E+12,Wine - Zinfandel California 2002,$30.47 ,36,mastercard
+1.66335E+12,Scallops - 20/30,$14.90 ,50,visa
+1.66211E+12,Ecolab - Lime - A - Way 4/4 L,$12.08 ,1,mastercard
+1.66412E+12,Pie Filling - Cherry,$37.74 ,36,americanexpress
+1.66473E+12,Wine - Rubyport,$34.12 ,19,visa
+1.66657E+12,Nori Sea Weed - Gold Label,$38.79 ,46,americanexpress
+1.66569E+12,Sauce - Mint,$16.01 ,29,mastercard
+1.66631E+12,Ostrich - Prime Cut,$38.95 ,29,visa
+1.66571E+12,Nantuket Peach Orange,$15.82 ,49,americanexpress
+1.6636E+12,Hot Chocolate - Individual,$14.70 ,9,mastercard
+1.66283E+12,Dasheen,$32.83 ,12,mastercard
+1.66727E+12,Compound - Pear,$26.65 ,24,visa
+1.66611E+12,Peppercorns - Pink,$18.00 ,16,mastercard
+1.6659E+12,Pork - Ham Hocks - Smoked,$29.31 ,14,americanexpress
+1.66642E+12,Coffee Cup 16oz Foam,$16.22 ,20,mastercard
+1.66397E+12,"Fish - Artic Char, Cold Smoked",$18.62 ,20,mastercard
+1.66503E+12,Flour - Bread,$22.11 ,25,mastercard
+1.66204E+12,Crush - Cream Soda,$36.67 ,14,visa
+1.66402E+12,Otomegusa Dashi Konbu,$17.67 ,40,visa
+1.66208E+12,Jam - Raspberry,$35.45 ,2,visa
+1.66458E+12,Lamb Rack Frenched Australian,$34.37 ,13,visa
+1.66537E+12,French Kiss Vanilla,$37.86 ,27,mastercard
+1.66699E+12,Wine - Jaboulet Cotes Du Rhone,$24.10 ,24,mastercard
+1.66649E+12,Table Cloth 91x91 Colour,$31.45 ,27,visa
+1.6672E+12,Soup Campbells - Tomato Bisque,$29.45 ,41,mastercard
+1.66511E+12,Salmon Atl.whole 8 - 10 Lb,$17.40 ,46,americanexpress
+1.66679E+12,Juice - Happy Planet,$16.34 ,24,mastercard
+1.66291E+12,Pie Filling - Pumpkin,$26.03 ,21,americanexpress
+1.66664E+12,Dates,$24.71 ,33,americanexpress
+1.66403E+12,Coffee - 10oz Cup 92961,$32.78 ,19,americanexpress
+1.66213E+12,"Chilli Paste, Ginger Garlic",$29.42 ,20,americanexpress
+1.66297E+12,"Nestea - Ice Tea, Diet",$37.38 ,46,mastercard
+1.6621E+12,Pork - Belly Fresh,$26.87 ,10,mastercard
+1.66572E+12,Thyme - Dried,$15.07 ,19,americanexpress
+1.6658E+12,"Sauce - Black Current, Dry Mix",$12.20 ,9,americanexpress
+1.66341E+12,Scallops 60/80 Iqf,$35.39 ,34,visa
+1.66691E+12,Honey - Comb,$17.23 ,40,americanexpress
+1.66622E+12,"Tabasco Sauce, 2 Oz",$10.82 ,5,americanexpress
+1.66596E+12,Cheese - Roquefort Pappillon,$29.83 ,29,mastercard
+1.66329E+12,"Soup - Beef, Base Mix",$19.68 ,27,mastercard
+1.66552E+12,Tomatoes - Hot House,$23.34 ,21,americanexpress
+1.66588E+12,"Cheese - Havarti, Salsa",$39.69 ,31,visa
+1.66678E+12,Chinese Foods - Chicken Wing,$16.96 ,10,mastercard
+1.66421E+12,Assorted Desserts,$34.65 ,31,americanexpress
+1.66648E+12,Nantucket Apple Juice,$15.03 ,4,mastercard
+1.6624E+12,Wine - Muscadet Sur Lie,$14.09 ,29,mastercard
+1.66621E+12,Wine - Redchard Merritt,$13.77 ,1,mastercard
+1.66707E+12,"Beef - Bones, Marrow",$21.42 ,27,americanexpress
+1.66437E+12,Lettuce - Baby Salad Greens,$23.65 ,28,mastercard
+1.66475E+12,Dip - Tapenade,$12.15 ,49,americanexpress
+1.66449E+12,Wonton Wrappers,$29.35 ,26,mastercard
+1.66716E+12,Veal - Loin,$28.98 ,22,mastercard
+1.66611E+12,Blackberries,$29.17 ,46,americanexpress
+1.66494E+12,Mahi Mahi,$26.65 ,38,visa
+1.66476E+12,Garbage Bag - Clear,$32.46 ,21,visa
+1.66237E+12,"Asparagus - White, Fresh",$23.16 ,41,visa
+1.66535E+12,Paper Towel Touchless,$34.00 ,46,visa
+1.66648E+12,Grenadillo,$25.27 ,44,americanexpress
+1.66299E+12,Stock - Fish,$35.78 ,28,americanexpress
+1.66287E+12,"Soup - Campbells, Classic Chix",$16.04 ,44,mastercard
+1.66367E+12,Tart - Pecan Butter Squares,$36.09 ,23,mastercard
+1.66446E+12,Ecolab - Lime - A - Way 4/4 L,$15.10 ,15,visa
+1.66414E+12,Clementine,$25.51 ,40,visa
+1.66677E+12,Beer - Camerons Auburn,$19.21 ,4,americanexpress
+1.66484E+12,White Fish - Filets,$19.69 ,6,mastercard
+1.66612E+12,Initation Crab Meat,$35.39 ,16,americanexpress
+1.66348E+12,"Crab - Claws, 26 - 30",$33.70 ,48,americanexpress
+1.66211E+12,Calypso - Black Cherry Lemonade,$13.12 ,21,americanexpress
+1.66563E+12,"Tortillas - Flour, 10",$19.77 ,6,americanexpress
+1.66584E+12,Table Cloth 90x90 White,$36.96 ,27,mastercard
+1.66277E+12,Bacardi Breezer - Tropical,$11.03 ,3,mastercard
+1.66312E+12,Wine - Chateauneuf Du Pape,$21.68 ,13,mastercard
+1.66679E+12,Chutney Sauce - Mango,$23.05 ,42,americanexpress
+1.66354E+12,Potatoes - Idaho 80 Count,$36.51 ,46,visa
+1.66204E+12,Rabbit - Legs,$12.37 ,39,mastercard
+1.66684E+12,Pears - Anjou,$23.88 ,11,mastercard
+1.66248E+12,Rice Wine - Aji Mirin,$21.79 ,20,visa
+1.66307E+12,"Pasta - Rotini, Colour, Dry",$14.73 ,45,visa
+1.66235E+12,Shark - Loin,$18.42 ,43,americanexpress
+1.66395E+12,Chips - Potato Jalapeno,$31.92 ,32,americanexpress
+1.66553E+12,Dates,$14.02 ,22,mastercard
+1.66359E+12,"Juice - Orange, Concentrate",$23.48 ,8,americanexpress
+1.66223E+12,Chicken - Tenderloin,$26.72 ,38,americanexpress
+1.663E+12,The Pop Shoppe - Cream Soda,$31.75 ,18,americanexpress
+1.66387E+12,"Pasta - Penne, Lisce, Dry",$14.97 ,28,visa
+1.6649E+12,Wine - Black Tower Qr,$10.19 ,6,mastercard
+1.66659E+12,Lettuce - Green Leaf,$30.22 ,23,visa
+1.66555E+12,Container - Foam Dixie 12 Oz,$10.33 ,39,americanexpress
+1.66607E+12,Table Cloth - 53x69 Colour,$28.00 ,46,visa
+1.66625E+12,Muffin Hinge - 211n,$30.08 ,10,mastercard
+1.66546E+12,Container - Hngd Cll Blk 7x7x3,$31.50 ,34,americanexpress
+1.6647E+12,"Club Soda - Schweppes, 355 Ml",$17.94 ,50,mastercard
+1.66646E+12,Energy - Boo - Koo,$29.42 ,37,visa
+1.66726E+12,Curry Powder,$34.36 ,33,visa
+1.66202E+12,Squash - Butternut,$22.87 ,37,americanexpress
+1.66266E+12,"Shrimp - 16/20, Peeled Deviened",$21.23 ,29,mastercard
+1.66219E+12,Garlic,$13.57 ,27,mastercard
+1.66589E+12,"Lettuce - Romaine, Heart",$30.53 ,37,americanexpress
+1.66401E+12,Smoked Tongue,$15.12 ,30,visa
+1.66417E+12,"Sauce - Apple, Unsweetened",$30.27 ,43,americanexpress
+1.66509E+12,Island Oasis - Strawberry,$34.47 ,23,mastercard
+1.66583E+12,Honey - Liquid,$30.88 ,27,visa
+1.66517E+12,"Pasta - Cappellini, Dry",$16.43 ,3,mastercard
+1.66703E+12,Crab - Soft Shell,$37.30 ,48,americanexpress
+1.66545E+12,Ezy Change Mophandle,$19.80 ,49,americanexpress
+1.66364E+12,Wine - Malbec Trapiche Reserve,$39.50 ,11,visa
+1.66718E+12,Lotus Leaves,$23.87 ,12,mastercard
+1.66565E+12,"Pork - Butt, Boneless",$35.04 ,29,visa
+1.66273E+12,"Bread - Bagels, Mini",$31.35 ,40,visa
+1.6632E+12,Sprouts - Brussel,$29.98 ,48,mastercard
+1.66593E+12,Potatoes - Peeled,$37.79 ,34,visa
+1.66493E+12,Ostrich - Prime Cut,$30.63 ,9,mastercard
+1.66532E+12,"Juice - Apple, 500 Ml",$18.92 ,22,mastercard
+1.66717E+12,Creme De Menthe Green,$29.79 ,37,mastercard
+1.66283E+12,Muffin - Mix - Creme Brule 15l,$36.21 ,19,mastercard
+1.6666E+12,Curry Paste - Green Masala,$34.16 ,27,visa
+1.6667E+12,Red Cod Fillets - 225g,$19.86 ,43,visa
+1.66282E+12,Veal - Provimi Inside,$25.85 ,19,visa
+1.66211E+12,Cheese - Comte,$29.49 ,17,mastercard
+1.66374E+12,"Nut - Pine Nuts, Whole",$20.99 ,48,mastercard
+1.66542E+12,Island Oasis - Lemonade,$17.65 ,33,visa
+1.66694E+12,Bread - Pain Au Liat X12,$38.01 ,30,mastercard
+1.66596E+12,Vodka - Moskovskaya,$24.00 ,8,visa
+1.66505E+12,Beef - Sushi Flat Iron Steak,$17.73 ,37,visa
+1.66626E+12,"Nestea - Ice Tea, Diet",$30.42 ,2,visa
+1.6655E+12,"Veal - Inside Round / Top, Lean",$18.31 ,14,americanexpress
+1.66469E+12,"Wine - White, Concha Y Toro",$16.55 ,42,visa
+1.66611E+12,Arizona - Green Tea,$32.64 ,42,mastercard
+1.66209E+12,"Marjoram - Dried, Rubbed",$10.11 ,13,americanexpress
+1.66667E+12,Swiss Chard,$28.89 ,2,americanexpress
+1.66254E+12,Versatainer Nc - 8288,$27.54 ,32,americanexpress
+1.66596E+12,"Beef - Baby, Liver",$31.02 ,19,visa
+1.66343E+12,Foam Espresso Cup Plain White,$11.36 ,16,americanexpress
+1.66429E+12,Latex Rubber Gloves Size 9,$36.10 ,43,visa
+1.66475E+12,Puree - Strawberry,$11.64 ,2,americanexpress
+1.66535E+12,Beef - Short Loin,$13.36 ,18,visa
+1.66265E+12,"Placemat - Scallop, White",$31.57 ,30,americanexpress
+1.6654E+12,Aspic - Clear,$16.00 ,8,americanexpress
+1.66439E+12,Tea - Mint,$25.71 ,42,visa
+1.66617E+12,"Wine - Magnotta, Merlot Sr Vqa",$33.26 ,20,visa
+1.66411E+12,Melon - Watermelon Yellow,$11.22 ,42,americanexpress
+1.66467E+12,Ice Cream Bar - Rolo Cone,$31.76 ,49,mastercard
+1.66696E+12,Pike - Frozen Fillet,$22.09 ,2,americanexpress
+1.66332E+12,Dill Weed - Dry,$14.25 ,38,visa
+1.66591E+12,Bread - Ciabatta Buns,$19.74 ,25,mastercard
+1.66681E+12,Mustard - Individual Pkg,$14.39 ,20,americanexpress
+1.66394E+12,Toamtoes 6x7 Select,$19.68 ,39,americanexpress
+1.6626E+12,Honey - Lavender,$19.99 ,31,visa
+1.66243E+12,Savory,$38.38 ,23,visa
+1.66451E+12,Island Oasis - Lemonade,$39.77 ,22,mastercard
+1.66413E+12,Squid - U - 10 Thailand,$23.84 ,18,americanexpress
+1.66616E+12,Sachet,$36.19 ,5,visa
+1.66328E+12,Crab - Soft Shell,$38.39 ,46,americanexpress
+1.66713E+12,Longos - Lasagna Veg,$27.82 ,45,visa
+1.66659E+12,Lumpfish Black,$34.02 ,26,visa
+1.66293E+12,Wine - Vidal Icewine Magnotta,$22.62 ,23,americanexpress
+1.6669E+12,Sping Loaded Cup Dispenser,$32.46 ,15,americanexpress
+1.66331E+12,"Nut - Hazelnut, Whole",$21.59 ,15,visa
+1.66634E+12,Jagermeister,$29.45 ,41,mastercard
+1.66226E+12,Lamb Rack - Ontario,$28.25 ,11,visa
+1.66288E+12,Sea Bass - Whole,$18.08 ,29,mastercard
+1.66341E+12,Sugar - Splenda Sweetener,$36.10 ,10,visa
+1.66362E+12,Sausage - Breakfast,$18.39 ,4,mastercard
+1.66346E+12,Bread Fig And Almond,$14.87 ,35,americanexpress
+1.66216E+12,Cheese - Asiago,$11.50 ,20,visa
+1.66624E+12,Beans - Kidney White,$29.65 ,43,visa
+1.66454E+12,Bread - Raisin,$16.53 ,23,visa
+1.66255E+12,Bok Choy - Baby,$32.95 ,4,mastercard
+1.66629E+12,Puff Pastry - Slab,$27.64 ,8,mastercard
+1.6672E+12,Versatainer Nc - 9388,$17.58 ,2,mastercard
+1.66247E+12,Wine - Fontanafredda Barolo,$27.09 ,11,mastercard
+1.66622E+12,Cake - French Pear Tart,$10.03 ,10,mastercard
+1.66227E+12,Beef - Eye Of Round,$31.64 ,4,americanexpress
+1.66352E+12,"Lettuce - Romaine, Heart",$35.53 ,22,visa
+1.66225E+12,The Pop Shoppe - Grape,$19.58 ,50,visa
+1.66294E+12,Chips - Doritos,$31.87 ,23,mastercard
+1.66358E+12,"Yogurt - Banana, 175 Gr",$27.95 ,11,visa
+1.66451E+12,Muffin - Mix - Creme Brule 15l,$22.50 ,13,visa
+1.66273E+12,Lobster - Canned Premium,$24.56 ,14,visa
+1.66272E+12,Greens Mustard,$34.21 ,40,americanexpress
+1.6669E+12,Breadfruit,$18.75 ,6,mastercard
+1.666E+12,Kellogs All Bran Bars,$30.64 ,48,americanexpress
+1.66549E+12,Pepper - Scotch Bonnet,$12.12 ,48,visa
+1.66343E+12,"Beef - Rouladin, Sliced",$33.12 ,4,mastercard
+1.66344E+12,Cheese - Ricotta,$28.92 ,1,mastercard
+1.66656E+12,Pancetta,$37.27 ,17,visa
+1.66732E+12,Paper Cocktail Umberlla 80 - 180,$31.16 ,1,visa
+1.66669E+12,Lettuce - Red Leaf,$17.32 ,14,mastercard
+1.66699E+12,Paste - Black Olive,$14.65 ,16,visa
+1.66389E+12,Wine - Pinot Noir Stoneleigh,$38.02 ,22,mastercard
+1.66315E+12,Ginger - Ground,$32.77 ,24,mastercard
+1.66366E+12,Wine - Crozes Hermitage E.,$11.81 ,31,visa
+1.6658E+12,Tea - Decaf 1 Cup,$22.29 ,47,visa
+1.66283E+12,Wine - Chateauneuf Du Pape,$32.40 ,31,americanexpress
+1.666E+12,Yeast Dry - Fermipan,$38.07 ,14,visa
+1.66576E+12,Wine - Casillero Del Diablo,$23.92 ,5,americanexpress
+1.66531E+12,"Rum - White, Gg White",$16.50 ,4,americanexpress
+1.66564E+12,Sun - Dried Tomatoes,$28.78 ,9,americanexpress
+1.66606E+12,Wine - Savigny - Les - Beaune,$37.16 ,39,americanexpress
+1.66422E+12,Sauce - Chili,$35.69 ,29,mastercard
+1.66236E+12,Beef Striploin Aaa,$27.53 ,38,visa
+1.66221E+12,"Veal - Chops, Split, Frenched",$36.21 ,22,visa
+1.66249E+12,Appetizer - Sausage Rolls,$32.56 ,6,americanexpress
+1.66423E+12,True - Vue Containers,$32.72 ,47,visa
+1.66394E+12,"Pasta - Lasagna Noodle, Frozen",$22.95 ,50,mastercard
+1.66634E+12,Boogies,$29.62 ,13,americanexpress
+1.66512E+12,Extract - Almond,$20.04 ,31,americanexpress
+1.666E+12,Basil - Seedlings Cookstown,$14.60 ,11,mastercard
+1.66653E+12,Wine - Carmenere Casillero Del,$26.73 ,45,mastercard
+1.666E+12,Bread - Bistro Sour,$39.92 ,34,mastercard
+1.66305E+12,"Veal - Shank, Pieces",$25.39 ,31,mastercard
+1.66414E+12,Remy Red,$14.77 ,16,visa
+1.66719E+12,Flounder - Fresh,$24.16 ,46,visa
+1.666E+12,"Coconut - Shredded, Sweet",$18.23 ,20,mastercard
+1.66306E+12,"Pasta - Lasagne, Fresh",$15.72 ,45,visa
+1.66596E+12,Duck - Whole,$18.57 ,7,mastercard
+1.66288E+12,Coconut Milk - Unsweetened,$22.43 ,37,americanexpress
+1.66645E+12,Mushrooms - Honey,$29.78 ,41,americanexpress
+1.6666E+12,Cheese - Brick With Onion,$29.13 ,35,americanexpress
+1.66205E+12,"Nut - Almond, Blanched, Sliced",$21.93 ,24,visa
+1.6629E+12,Asparagus - Mexican,$19.70 ,11,visa
+1.66259E+12,"Lamb - Leg, Diced",$38.27 ,48,americanexpress
+1.66427E+12,Wine - Placido Pinot Grigo,$19.87 ,25,visa
+1.66545E+12,Danishes - Mini Cheese,$37.64 ,36,mastercard
+1.66228E+12,Food Colouring - Green,$23.01 ,42,visa
+1.666E+12,Petite Baguette,$20.65 ,13,visa
+1.6666E+12,Garlic,$25.78 ,23,visa
+1.66584E+12,Tomatoes - Cherry,$20.22 ,6,mastercard
+1.6652E+12,"Jam - Raspberry,jar",$34.66 ,8,visa
+1.66626E+12,"Yogurt - Blueberry, 175 Gr",$21.19 ,38,mastercard
+1.66554E+12,"Pasta - Cappellini, Dry",$25.74 ,36,visa
+1.6628E+12,Crab - Imitation Flakes,$17.44 ,23,visa
+1.66217E+12,Stainless Steel Cleaner Vision,$19.70 ,18,visa
+1.66333E+12,Wine - Rhine Riesling Wolf Blass,$35.32 ,44,visa
+1.66341E+12,Beef - Striploin Aa,$14.25 ,8,visa
+1.66641E+12,"Pork - Sausage, Medium",$11.77 ,17,visa
+1.66514E+12,Cloves - Ground,$15.43 ,28,visa
+1.66428E+12,Cheese - Roquefort Pappillon,$35.56 ,14,americanexpress
+1.66678E+12,Pastry - Cherry Danish - Mini,$19.37 ,39,mastercard
+1.66579E+12,Spring Roll Wrappers,$27.54 ,8,mastercard
+1.6645E+12,Magnotta - Bel Paese White,$17.52 ,35,americanexpress
+1.66529E+12,Longos - Lasagna Beef,$31.28 ,27,visa
+1.66415E+12,Juice - Propel Sport,$16.13 ,31,americanexpress
+1.66672E+12,Fennel,$38.53 ,38,visa
+1.66689E+12,Apple - Custard,$38.06 ,32,visa
+1.66611E+12,Flour - Fast / Rapid,$12.37 ,9,americanexpress
+1.66475E+12,"Capon - Breast, Double, Wing On",$17.17 ,47,americanexpress
+1.66712E+12,Cookies Cereal Nut,$11.16 ,49,mastercard
+1.66538E+12,Napkin White,$13.25 ,46,mastercard
+1.66615E+12,Chocolate - Feathers,$36.98 ,31,mastercard
+1.66673E+12,Yoplait Drink,$11.94 ,8,mastercard
+1.66202E+12,Longos - Cheese Tortellini,$11.11 ,43,americanexpress
+1.66568E+12,Chicken - Ground,$13.61 ,22,visa
+1.66251E+12,Longos - Penne With Pesto,$33.92 ,20,mastercard
+1.66623E+12,Cookie Dough - Chunky,$29.53 ,50,americanexpress
+1.66688E+12,Spice - Pepper Portions,$22.69 ,42,visa
+1.66351E+12,Fennel,$13.89 ,2,mastercard
+1.66642E+12,Wild Boar - Tenderloin,$10.10 ,35,mastercard
+1.66649E+12,"Appetizer - Spring Roll, Veg",$25.61 ,41,americanexpress
+1.66546E+12,Pail For Lid 1537,$21.77 ,11,americanexpress
+1.6657E+12,Corn - Mini,$27.98 ,26,mastercard
+1.66652E+12,Cheese - Perron Cheddar,$36.86 ,28,visa
+1.66706E+12,Halibut - Fletches,$17.18 ,9,americanexpress
+1.66556E+12,Energy - Boo - Koo,$18.04 ,29,visa
+1.6647E+12,Squeeze Bottle,$11.58 ,33,americanexpress
+1.66611E+12,"Pepper - Paprika, Spanish",$15.22 ,13,visa
+1.66661E+12,Skewers - Bamboo,$37.68 ,19,mastercard
+1.66568E+12,Sage Ground Wiberg,$25.49 ,22,americanexpress
+1.6654E+12,Shrimp - Black Tiger 16/20,$37.63 ,38,mastercard
+1.66592E+12,Versatainer Nc - 8288,$12.59 ,22,visa
+1.66691E+12,Gherkin,$35.31 ,42,americanexpress
+1.66432E+12,Shallots,$13.22 ,15,americanexpress
+1.66557E+12,Longos - Grilled Salmon With Bbq,$37.15 ,42,americanexpress
+1.66528E+12,Sword Pick Asst,$21.58 ,1,americanexpress
+1.66608E+12,Parsnip,$25.58 ,31,mastercard
+1.66378E+12,"Champagne - Brights, Dry",$10.20 ,3,visa
+1.66686E+12,Onions - Cippolini,$20.58 ,26,visa
+1.66385E+12,Pasta - Agnolotti - Butternut,$21.77 ,24,visa
+1.6666E+12,Appetiser - Bought,$12.36 ,4,mastercard
+1.66714E+12,"Bread - Roll, Calabrese",$23.08 ,29,mastercard
+1.66352E+12,Milk Powder,$13.85 ,43,americanexpress
+1.66619E+12,Bread - Italian Roll With Herbs,$39.08 ,50,americanexpress
+1.66384E+12,Cheese - Ricotta,$18.11 ,37,visa
+1.66289E+12,Sprouts - Peppercress,$12.10 ,10,americanexpress
+1.66475E+12,Wine - Placido Pinot Grigo,$32.40 ,44,mastercard
+1.66359E+12,Compound - Rum,$19.26 ,17,mastercard
+1.66339E+12,"Mushroom - Chanterelle, Dry",$35.29 ,26,americanexpress
+1.66334E+12,Yucca,$16.54 ,42,americanexpress
+1.66304E+12,Lettuce Romaine Chopped,$31.47 ,12,americanexpress
+1.66714E+12,Soup - Campbells Beef Stew,$37.46 ,7,mastercard
+1.6656E+12,Milk - Skim,$25.36 ,5,americanexpress
+1.66245E+12,Chicken - Wieners,$11.90 ,31,americanexpress
+1.66711E+12,Soup - Campbells Pasta Fagioli,$37.56 ,10,americanexpress
+1.66624E+12,Pepper - Green,$18.62 ,48,visa
+1.66278E+12,Beer - Blue Light,$17.58 ,20,americanexpress
+1.66383E+12,Wine - Lamancha Do Crianza,$17.37 ,19,mastercard
+1.66454E+12,Potatoes - Parissienne,$16.61 ,40,americanexpress
+1.66388E+12,Cake - Cake Sheet Macaroon,$13.10 ,37,mastercard
+1.66707E+12,Dawn Professionl Pot And Pan,$33.28 ,13,mastercard
+1.665E+12,"Rum - Light, Captain Morgan",$30.88 ,1,visa
+1.66327E+12,Tomatillo,$20.93 ,24,americanexpress
+1.66388E+12,Mushroom - Portebello,$16.65 ,40,visa
+1.66605E+12,Wine - Magnotta - Bel Paese White,$17.67 ,9,americanexpress
+1.66272E+12,"Vinegar - Balsamic, White",$34.64 ,4,visa
+1.66577E+12,Grand Marnier,$10.39 ,36,visa
+1.66598E+12,Gooseberry,$25.69 ,40,americanexpress
+1.66728E+12,Garam Masala Powder,$13.19 ,11,americanexpress
+1.66352E+12,Juice - Ocean Spray Cranberry,$13.48 ,10,americanexpress
+1.66497E+12,Mace Ground,$22.18 ,25,visa
+1.66286E+12,"Lemonade - Island Tea, 591 Ml",$28.11 ,25,visa
+1.66406E+12,Sauce - Caesar Dressing,$25.13 ,46,americanexpress
+1.66389E+12,Tea Leaves - Oolong,$28.85 ,12,visa
+1.66411E+12,Dawn Professionl Pot And Pan,$28.86 ,30,mastercard
+1.66494E+12,Wine - Cava Aria Estate Brut,$19.51 ,22,mastercard
+1.66363E+12,"Split Peas - Green, Dry",$13.34 ,27,americanexpress
+1.66686E+12,"Flour - Bran, Red",$25.15 ,45,americanexpress
+1.66429E+12,Wine - Duboeuf Beaujolais,$21.74 ,4,visa
+1.66658E+12,Butcher Twine 4r,$31.64 ,49,mastercard
+1.66383E+12,Wine - Crozes Hermitage E.,$25.69 ,31,mastercard
+1.66362E+12,Sponge Cake Mix - Chocolate,$32.46 ,39,americanexpress
+1.66422E+12,Lamb - Rack,$37.42 ,27,visa
+1.66353E+12,Wine - Riesling Alsace Ac 2001,$23.23 ,8,mastercard
+1.66614E+12,Vodka - Moskovskaya,$25.96 ,8,americanexpress
+1.66603E+12,Wine - Shiraz South Eastern,$36.17 ,45,americanexpress
+1.66279E+12,Venison - Ground,$25.03 ,24,visa
+1.66571E+12,Mcgillicuddy Vanilla Schnap,$35.14 ,30,visa
+1.66465E+12,Cleaner - Pine Sol,$36.58 ,21,americanexpress
+1.665E+12,Cherries - Frozen,$10.21 ,9,americanexpress
+1.66323E+12,Kahlua,$32.84 ,24,americanexpress
+1.66624E+12,Tuna - Salad Premix,$29.07 ,3,mastercard
+1.66212E+12,"Bread - Dark Rye, Loaf",$16.77 ,24,visa
+1.6638E+12,Wine - Vouvray Cuvee Domaine,$38.91 ,45,visa
+1.66404E+12,Tea - Green,$15.48 ,15,mastercard
+1.66563E+12,Soupcontfoam16oz 116con,$29.47 ,12,mastercard
+1.66219E+12,Pepper - Red Thai,$26.54 ,38,americanexpress
+1.66665E+12,Soup - Campbells Chicken,$34.13 ,14,americanexpress
+1.66698E+12,Ice Cream - Chocolate,$24.00 ,33,mastercard
+1.66242E+12,Wine - Fontanafredda Barolo,$29.12 ,21,americanexpress
+1.666E+12,Sprouts - Baby Pea Tendrils,$29.18 ,28,americanexpress
+1.66463E+12,Potato - Sweet,$21.68 ,21,americanexpress
+1.66326E+12,"Tray - Foam, Square 4 - S",$38.63 ,36,mastercard
+1.66541E+12,Sambuca - Ramazzotti,$36.04 ,42,mastercard
+1.66637E+12,Leeks - Large,$12.48 ,32,visa
+1.66433E+12,Sugar - Icing,$38.19 ,5,americanexpress
+1.66459E+12,Beer - Original Organic Lager,$14.76 ,25,visa
+1.66472E+12,"Octopus - Baby, Cleaned",$12.86 ,33,mastercard
+1.66679E+12,"Rum - Dark, Bacardi, Black",$15.48 ,3,mastercard
+1.66623E+12,Soup - Boston Clam Chowder,$21.79 ,22,visa
+1.6656E+12,Carbonated Water - Cherry,$11.24 ,2,visa
+1.66467E+12,"Marjoram - Dried, Rubbed",$14.15 ,7,mastercard
+1.66709E+12,Garam Masala Powder,$35.66 ,27,americanexpress
+1.66486E+12,"Beef - Rib Roast, Capless",$28.77 ,9,mastercard
+1.66725E+12,Pickerel - Fillets,$36.55 ,20,mastercard
+1.66595E+12,"Wine - Red, Cabernet Merlot",$27.80 ,50,mastercard
+1.66456E+12,"Veal - Tenderloin, Untrimmed",$31.06 ,16,mastercard
+1.66672E+12,Isomalt,$24.41 ,8,visa
+1.66626E+12,Calypso - Black Cherry Lemonade,$22.94 ,48,visa
+1.66458E+12,"Stock - Chicken, White",$38.26 ,32,mastercard
+1.66688E+12,"Brownies - Two Bite, Chocolate",$39.98 ,13,americanexpress
+1.66356E+12,Herb Du Provence - Primerba,$38.99 ,8,americanexpress
+1.66508E+12,Cheese - Goat,$18.71 ,12,mastercard
+1.66726E+12,"Liqueur Banana, Ramazzotti",$19.30 ,11,mastercard
+1.66437E+12,"Pork - Butt, Boneless",$20.92 ,48,americanexpress
+1.66306E+12,Evaporated Milk - Skim,$34.26 ,11,americanexpress
+1.66461E+12,Soap - Pine Sol Floor Cleaner,$19.92 ,48,americanexpress
+1.66668E+12,Island Oasis - Cappucino Mix,$39.30 ,14,visa
+1.66469E+12,Bread - Rosemary Focaccia,$16.08 ,47,americanexpress
+1.66209E+12,Wine - Red Oakridge Merlot,$33.06 ,27,americanexpress
+1.66584E+12,Kippers - Smoked,$39.62 ,18,visa
+1.66216E+12,"Soup - Campbells, Lentil",$15.78 ,16,americanexpress
+1.66635E+12,"Juice - Orange, Concentrate",$28.76 ,50,visa
+1.66719E+12,"Ham - Smoked, Bone - In",$11.00 ,19,americanexpress
+1.66592E+12,Dooleys Toffee,$38.13 ,22,mastercard
+1.66573E+12,Wine - Chablis 2003 Champs,$15.25 ,26,americanexpress
+1.66573E+12,Wine - Hardys Bankside Shiraz,$32.13 ,30,visa
+1.66706E+12,"Iced Tea - Lemon, 340ml",$29.36 ,26,mastercard
+1.66274E+12,"Cherries - Bing, Canned",$21.22 ,46,mastercard
+1.66295E+12,Beef Wellington,$28.61 ,24,mastercard
+1.66641E+12,"Fish - Scallops, Cold Smoked",$33.42 ,23,americanexpress
+1.66545E+12,Milk Powder,$32.01 ,22,mastercard
+1.66487E+12,Cumin - Ground,$20.98 ,15,mastercard
+1.66237E+12,V8 Splash Strawberry Banana,$27.89 ,8,mastercard
+1.66461E+12,Lotus Root,$21.98 ,15,americanexpress
+1.66317E+12,Bread - Hot Dog Buns,$24.60 ,46,mastercard
+1.66414E+12,Soup Campbells Beef With Veg,$18.32 ,35,americanexpress
+1.6657E+12,Calypso - Black Cherry Lemonade,$36.91 ,7,mastercard
+1.66567E+12,Milk - 2% 250 Ml,$17.30 ,13,americanexpress
+1.6643E+12,Jam - Raspberry,$19.90 ,41,mastercard
+1.66392E+12,Pepper Squash,$12.94 ,21,americanexpress
+1.66499E+12,Otomegusa Dashi Konbu,$18.96 ,41,visa
+1.66682E+12,"Sauce - Bernaise, Mix",$36.00 ,18,mastercard
+1.66667E+12,Trueblue - Blueberry,$16.15 ,38,mastercard
+1.66262E+12,"Salt - Rock, Course",$18.08 ,45,visa
+1.66201E+12,"Pasta - Penne, Rigate, Dry",$23.24 ,40,mastercard
+1.66203E+12,Curry Paste - Green Masala,$38.34 ,6,mastercard
+1.66205E+12,Wine - Magnotta - Pinot Gris Sr,$11.46 ,21,americanexpress
+1.6639E+12,Chocolate Bar - Coffee Crisp,$34.14 ,3,mastercard
+1.66327E+12,"Tart Shells - Savory, 3",$39.45 ,5,visa
+1.66334E+12,Radish - Pickled,$13.70 ,15,americanexpress
+1.66303E+12,Basil - Fresh,$25.33 ,48,visa
+1.66237E+12,Ice Cream Bar - Oreo Sandwich,$30.44 ,5,americanexpress
+1.66681E+12,Oranges,$38.13 ,41,americanexpress
+1.66511E+12,Curry Paste - Madras,$36.01 ,39,mastercard
+1.6654E+12,Wine - Sogrape Mateus Rose,$39.56 ,38,americanexpress
+1.66504E+12,Banana - Leaves,$28.62 ,15,americanexpress
+1.6661E+12,"Turkey - Breast, Bone - In",$37.70 ,20,americanexpress
+1.66426E+12,Beef - Prime Rib Aaa,$32.26 ,31,visa
+1.66452E+12,Muffin Mix - Lemon Cranberry,$14.62 ,20,mastercard
+1.66424E+12,Cheese - Swiss Sliced,$15.58 ,25,mastercard
+1.66734E+12,Pomegranates,$39.79 ,37,mastercard
+1.66219E+12,Pepper - Red Bell,$37.48 ,39,visa
+1.66228E+12,"Pasta - Elbows, Macaroni, Dry",$24.93 ,26,visa
+1.66677E+12,Tofu - Soft,$28.00 ,33,mastercard
+1.6631E+12,Onions - Spanish,$30.11 ,25,mastercard
+1.66535E+12,Cup - Translucent 7 Oz Clear,$29.90 ,18,americanexpress
+1.66558E+12,Cup - 4oz Translucent,$33.92 ,30,americanexpress
+1.66723E+12,"Bread - Crumbs, Bulk",$16.34 ,3,visa
+1.667E+12,"Oil - Truffle, Black",$31.32 ,14,americanexpress
+1.66648E+12,Steampan Lid,$22.91 ,48,americanexpress
+1.66331E+12,Food Colouring - Pink,$17.33 ,20,mastercard
+1.66415E+12,Squid - Breaded,$16.55 ,1,mastercard
+1.665E+12,Tuna - Sushi Grade,$28.41 ,10,mastercard
+1.66545E+12,Prunes - Pitted,$34.30 ,13,mastercard
+1.66376E+12,"Tomatoes - Cherry, Yellow",$29.21 ,10,visa
+1.66363E+12,"Soup - Clam Chowder, Dry Mix",$29.16 ,39,mastercard
+1.66596E+12,Lettuce - Arugula,$35.06 ,34,americanexpress
+1.66594E+12,"Tortillas - Flour, 12",$20.76 ,24,visa
+1.66341E+12,Bread - Sour Batard,$34.32 ,5,americanexpress
+1.66289E+12,Cheese - Bocconcini,$12.72 ,3,mastercard
+1.66326E+12,Bread Country Roll,$24.59 ,1,americanexpress
+1.66395E+12,Clam Nectar,$31.74 ,8,americanexpress
+1.66375E+12,Ecolab - Hobart Upr Prewash Arm,$23.93 ,14,americanexpress
+1.66618E+12,"Beef - Chuck, Boneless",$12.52 ,32,mastercard
+1.66629E+12,Shallots,$18.92 ,14,americanexpress
+1.66308E+12,Cheese - Grana Padano,$29.92 ,41,visa
+1.66233E+12,Energy - Boo - Koo,$28.02 ,16,americanexpress
+1.66446E+12,Basil - Thai,$23.96 ,7,americanexpress
+1.66514E+12,Tuna - Loin,$31.11 ,27,visa
+1.66572E+12,Sardines,$30.31 ,41,mastercard
+1.66377E+12,Soho Lychee Liqueur,$13.90 ,13,americanexpress
+1.66722E+12,Onions - Vidalia,$33.22 ,19,visa
+1.66348E+12,Apricots - Halves,$22.65 ,22,visa
+1.66262E+12,Grapefruit - Pink,$14.99 ,10,visa
+1.66635E+12,"Nut - Almond, Blanched, Sliced",$35.54 ,26,mastercard
+1.66597E+12,Tomato - Green,$12.06 ,1,mastercard
+1.66702E+12,"Wine - Bourgogne 2002, La",$24.21 ,4,visa
+1.66473E+12,"Veal - Chops, Split, Frenched",$23.39 ,13,mastercard
+1.66585E+12,"Crab - Dungeness, Whole, live",$38.60 ,43,visa
+1.66645E+12,Pepper - Green Thai,$36.81 ,44,americanexpress
+1.66316E+12,Dried Peach,$36.38 ,6,visa
+1.66253E+12,Urban Zen Drinks,$36.81 ,28,mastercard
+1.66413E+12,Wine - Delicato Merlot,$37.36 ,23,visa
+1.66241E+12,Cream - 18%,$22.90 ,46,visa
+1.66274E+12,Creme De Menthe Green,$37.40 ,24,mastercard
+1.66406E+12,Plastic Wrap,$13.36 ,33,americanexpress
+1.66408E+12,Table Cloth 62x120 Colour,$30.95 ,20,visa
+1.66733E+12,"Cherries - Bing, Canned",$14.50 ,41,visa
+1.6652E+12,Mustard - Pommery,$17.41 ,6,mastercard
+1.66599E+12,Corn - Mini,$37.49 ,25,americanexpress
+1.66591E+12,Sauce - Plum,$21.75 ,13,visa
+1.66452E+12,Fennel,$38.63 ,6,visa
+1.66429E+12,Buffalo - Short Rib Fresh,$34.76 ,2,americanexpress
+1.66671E+12,Mix - Cappucino Cocktail,$39.54 ,36,visa
+1.66664E+12,"Rum - Coconut, Malibu",$34.22 ,25,visa
+1.66668E+12,Calaloo,$26.47 ,29,americanexpress
+1.665E+12,"Coffee - Colombian, Portioned",$17.21 ,48,visa
+1.66541E+12,Table Cloth 62x114 White,$28.73 ,7,mastercard
+1.66678E+12,Madeira,$11.29 ,20,visa
+1.66705E+12,Pork Salted Bellies,$25.81 ,40,visa
+1.66578E+12,"Artichoke - Bottom, Canned",$12.91 ,4,visa
+1.66434E+12,Soy Protein,$10.47 ,39,visa
+1.66224E+12,Swiss Chard - Red,$25.20 ,26,visa
+1.66578E+12,Leeks - Large,$29.61 ,39,visa
+1.66434E+12,"Juice - Tomato, 10 Oz",$35.89 ,3,americanexpress
+1.66684E+12,Chicken - Whole Roasting,$16.03 ,8,mastercard
+1.66643E+12,Nescafe - Frothy French Vanilla,$21.69 ,33,americanexpress
+1.66316E+12,Jameson Irish Whiskey,$34.60 ,9,americanexpress
+1.66387E+12,Cookie Trail Mix,$29.94 ,43,americanexpress
+1.66404E+12,Sauce - Thousand Island,$27.17 ,6,mastercard
+1.66295E+12,Sausage - Chorizo,$11.86 ,31,visa
+1.66232E+12,Berry Brulee,$21.32 ,24,visa
+1.66315E+12,Energy Drink Red Bull,$11.03 ,27,americanexpress
+1.6625E+12,Soup - Campbells,$30.00 ,25,americanexpress
+1.66559E+12,Crab Brie In Phyllo,$34.70 ,41,americanexpress
+1.66545E+12,Cheese - Feta,$28.04 ,38,americanexpress
+1.66228E+12,Pastry - Chocolate Chip Muffin,$18.05 ,44,americanexpress
+1.66498E+12,Puff Pastry - Sheets,$30.21 ,39,mastercard
+1.66214E+12,"Stock - Beef, White",$27.48 ,41,mastercard
+1.66686E+12,"Nut - Pecan, Halves",$35.93 ,14,americanexpress
+1.66309E+12,"Arctic Char - Fresh, Whole",$30.75 ,31,americanexpress
+1.66271E+12,Chocolate - Semi Sweet,$31.64 ,14,mastercard
+1.66519E+12,Puree - Kiwi,$32.60 ,6,americanexpress
+1.66426E+12,Maintenance Removal Charge,$16.73 ,4,visa
+1.6663E+12,Haggis,$20.40 ,48,visa
+1.66303E+12,Sausage - Chorizo,$11.28 ,37,visa
+1.66305E+12,Wine - Trimbach Pinot Blanc,$25.48 ,48,mastercard
+1.66278E+12,Pasta - Cheese / Spinach Bauletti,$20.70 ,44,visa
+1.66287E+12,Icecream - Dibs,$20.67 ,4,mastercard
+1.66679E+12,Wine - Chateau Bonnet,$34.99 ,18,visa
+1.6644E+12,Potatoes - Idaho 80 Count,$10.70 ,22,visa
+1.66363E+12,Sausage - Blood Pudding,$22.81 ,18,americanexpress
+1.66547E+12,Icecream - Dstk Super Cone,$13.84 ,41,visa
+1.66397E+12,Sauce - Marinara,$34.30 ,35,americanexpress
+1.66374E+12,"Wine - Red, Harrow Estates, Cab",$23.75 ,4,mastercard
+1.66528E+12,Sauce - Salsa,$23.32 ,28,mastercard
+1.66637E+12,Sole - Iqf,$39.97 ,14,visa
+1.66226E+12,Flour Pastry Super Fine,$33.42 ,31,americanexpress
+1.66556E+12,Wine - Black Tower Qr,$12.63 ,49,americanexpress
+1.66476E+12,Sugar - Icing,$38.89 ,22,mastercard
+1.66567E+12,"Lobster - Tail, 3 - 4 Oz",$21.40 ,50,visa
+1.66695E+12,Wine - Pinot Grigio Collavini,$30.07 ,24,americanexpress
+1.66594E+12,Lid Tray - 12in Dome,$18.11 ,37,americanexpress
+1.66428E+12,Pork - Caul Fat,$28.34 ,30,americanexpress
+1.66229E+12,Wine - Placido Pinot Grigo,$21.97 ,5,americanexpress
+1.66216E+12,"Sauce - Soya, Dark",$30.03 ,32,visa
+1.66247E+12,Campari,$26.75 ,19,americanexpress
+1.66473E+12,Wine - German Riesling,$11.06 ,8,americanexpress
+1.66709E+12,White Fish - Filets,$31.46 ,44,americanexpress
+1.66444E+12,Chocolate - White,$11.22 ,14,americanexpress
+1.66231E+12,Veal - Sweetbread,$22.26 ,20,visa
+1.66681E+12,Lettuce - Boston Bib,$24.94 ,37,americanexpress
+1.66598E+12,Peas Snow,$15.12 ,16,mastercard
+1.66602E+12,Chips Potato All Dressed - 43g,$24.51 ,18,visa
+1.66292E+12,Straw - Regular,$31.44 ,6,mastercard
+1.66472E+12,Cheese - Marble,$27.08 ,47,visa
+1.66693E+12,Tomatoes - Cherry,$39.40 ,35,visa
+1.66395E+12,Poppy Seed,$26.34 ,9,mastercard
+1.66504E+12,"Veal - Inside, Choice",$24.41 ,9,mastercard
+1.66489E+12,Fruit Mix - Light,$20.00 ,23,mastercard
+1.66646E+12,Water - Perrier,$36.98 ,31,americanexpress
+1.66551E+12,Cognac - Courvaisier,$36.65 ,27,mastercard
+1.66471E+12,Trueblue - Blueberry Cranberry,$26.35 ,27,mastercard
+1.6631E+12,Vacuum Bags 12x16,$16.03 ,43,visa
+1.66364E+12,Relish,$15.14 ,50,americanexpress
+1.66318E+12,Onion Powder,$17.27 ,21,mastercard
+1.66547E+12,Corn Kernels - Frozen,$27.12 ,31,visa
+1.66354E+12,Jack Daniels,$34.77 ,1,americanexpress
+1.66647E+12,"Champagne - Brights, Dry",$21.22 ,34,americanexpress
+1.6629E+12,Evaporated Milk - Skim,$11.99 ,16,americanexpress
+1.66556E+12,Pepper - Jalapeno,$15.41 ,27,visa
+1.66555E+12,"Quail - Eggs, Fresh",$22.27 ,2,americanexpress
+1.66365E+12,"Turkey - Breast, Boneless Sk On",$17.38 ,43,visa
+1.66395E+12,Ecolab - Hand Soap Form Antibac,$22.40 ,42,mastercard
+1.66209E+12,Chocolate - White,$14.77 ,12,americanexpress
+1.66728E+12,Ezy Change Mophandle,$31.05 ,28,americanexpress
+1.66431E+12,"Mushroom - Trumpet, Dry",$22.99 ,12,visa
+1.66698E+12,Lobster - Live,$35.19 ,49,mastercard
+1.66225E+12,Cheese Cloth No 100,$19.69 ,45,americanexpress
+1.66278E+12,Hand Towel,$39.79 ,14,americanexpress
+1.66653E+12,Water - Spring Water 500ml,$26.40 ,16,mastercard
+1.66222E+12,Tomatoes Tear Drop,$21.64 ,13,americanexpress
+1.66281E+12,Tofu - Firm,$11.88 ,35,visa
+1.66355E+12,Truffle Cups - Brown,$38.72 ,20,mastercard
+1.66398E+12,Cake - Lemon Chiffon,$33.76 ,7,mastercard
+1.66275E+12,"Wine - White, French Cross",$20.47 ,6,visa
+1.66264E+12,Extract Vanilla Pure,$11.57 ,22,americanexpress
+1.664E+12,Tomatoes - Hot House,$18.85 ,19,americanexpress
+1.6637E+12,Sugar - Cubes,$21.80 ,11,mastercard
+1.6622E+12,"Wine - Magnotta, Merlot Sr Vqa",$27.79 ,22,americanexpress
+1.66473E+12,Jameson - Irish Whiskey,$34.52 ,10,americanexpress
+1.66341E+12,Ocean Spray - Ruby Red,$20.79 ,4,americanexpress
+1.66476E+12,Pie Filling - Pumpkin,$12.78 ,2,mastercard
+1.66346E+12,Sauce Bbq Smokey,$25.31 ,34,mastercard
+1.66332E+12,Onions - Cippolini,$15.09 ,19,americanexpress
+1.66263E+12,Creme De Menthe Green,$35.16 ,22,visa
+1.66563E+12,"Bread - Multigrain, Loaf",$19.27 ,35,mastercard
+1.66589E+12,Skirt - 24 Foot,$26.02 ,15,mastercard
+1.66209E+12,Poppy Seed,$15.27 ,37,visa
+1.66701E+12,Sage - Fresh,$20.77 ,45,americanexpress
+1.66469E+12,Chutney Sauce - Mango,$37.38 ,27,americanexpress
+1.66698E+12,Table Cloth 90x90 Colour,$34.88 ,48,americanexpress
+1.66473E+12,Wine - Lou Black Shiraz,$36.42 ,5,visa
+1.66735E+12,Garbage Bag - Clear,$25.54 ,38,visa
+1.66327E+12,Cleaner - Bleach,$15.32 ,25,mastercard
+1.66458E+12,Coffee Caramel Biscotti,$29.17 ,1,americanexpress
+1.66659E+12,Wine - Baron De Rothschild,$29.09 ,22,americanexpress
+1.66707E+12,Foil - Round Foil,$27.14 ,19,visa
+1.66541E+12,"Lemonade - Kiwi, 591 Ml",$18.47 ,43,visa
+1.66441E+12,"Lemonade - Kiwi, 591 Ml",$15.16 ,46,americanexpress
+1.66335E+12,"Lemonade - Mandarin, 591 Ml",$37.43 ,13,americanexpress
+1.6651E+12,Bread Foccacia Whole,$19.65 ,44,visa
+1.66538E+12,Gelatine Powder,$38.05 ,42,americanexpress
+1.66684E+12,Tomatoes - Yellow Hot House,$16.26 ,38,mastercard
+1.664E+12,Soup - Campbellschix Stew,$19.66 ,18,americanexpress
+1.66693E+12,"Lemonade - Strawberry, 591 Ml",$22.96 ,41,visa
+1.6634E+12,Red Pepper Paste,$31.57 ,3,mastercard
+1.66663E+12,Nantucket - Carrot Orange,$19.13 ,27,mastercard
+1.6662E+12,Everfresh Products,$10.00 ,32,mastercard
+1.66433E+12,"Yogurt - Blueberry, 175 Gr",$35.59 ,45,americanexpress
+1.66537E+12,Everfresh Products,$25.98 ,2,visa
+1.66635E+12,Pie Pecan,$29.40 ,18,mastercard
+1.66296E+12,Carbonated Water - White Grape,$30.38 ,12,americanexpress
+1.66702E+12,Spring Roll Wrappers,$12.10 ,50,visa
+1.66205E+12,Lobster - Cooked,$38.23 ,11,visa
+1.66234E+12,Sauce - Demi Glace,$13.13 ,10,visa
+1.66458E+12,"Halibut - Whole, Fresh",$19.45 ,27,americanexpress
+1.66221E+12,Petit Baguette,$30.79 ,47,americanexpress
+1.66641E+12,"Tortillas - Flour, 10",$10.65 ,20,visa
+1.66664E+12,Cookie Dough - Chunky,$25.20 ,46,americanexpress
+1.66592E+12,Carroway Seed,$36.48 ,28,visa
+1.66588E+12,"Pasta - Penne, Rigate, Dry",$24.16 ,19,mastercard
+1.66216E+12,"Cup - 3.5oz, Foam",$30.81 ,25,americanexpress
+1.66245E+12,Lime Cordial - Roses,$34.06 ,22,visa
+1.66348E+12,"Beef - Ox Tongue, Pickled",$34.94 ,14,americanexpress
+1.66264E+12,Juice - Ocean Spray Cranberry,$19.94 ,41,mastercard
+1.66289E+12,Sprouts - China Rose,$30.60 ,41,americanexpress
+1.6667E+12,Cinnamon - Stick,$38.23 ,4,americanexpress
+1.66564E+12,Egg - Salad Premix,$14.14 ,36,visa
+1.66724E+12,Cheese - Grana Padano,$12.65 ,2,visa
+1.66261E+12,Skewers - Bamboo,$17.06 ,36,visa
+1.66558E+12,Soup - Chicken And Wild Rice,$29.57 ,35,americanexpress
+1.66262E+12,Ice Cream Bar - Hageen Daz To,$15.94 ,3,visa
+1.66348E+12,Pomegranates,$30.93 ,2,mastercard
+1.66224E+12,Blackberries,$17.07 ,5,americanexpress
+1.6629E+12,"Pesto - Primerba, Paste",$10.48 ,43,visa
+1.66489E+12,Chutney Sauce,$24.24 ,33,mastercard
+1.66674E+12,Carrots - Mini Red Organic,$17.88 ,15,mastercard
+1.66262E+12,"Wine - Red, Cabernet Merlot",$21.52 ,28,mastercard
+1.66326E+12,Wine - Beaujolais Villages,$14.54 ,45,mastercard
+1.66244E+12,Apricots - Dried,$27.79 ,8,mastercard
+1.66419E+12,Slt - Individual Portions,$16.63 ,7,visa
+1.66506E+12,Banana - Green,$19.45 ,9,mastercard
+1.6641E+12,"Bread - Multigrain, Loaf",$20.26 ,22,mastercard
+1.66362E+12,Wine - Conde De Valdemar,$22.74 ,15,visa
+1.66637E+12,Calaloo,$27.75 ,35,mastercard
+1.66564E+12,Bread - Pita,$13.49 ,15,americanexpress
+1.66239E+12,"Yogurt - Strawberry, 175 Gr",$15.68 ,24,americanexpress
+1.66453E+12,Yams,$13.07 ,7,mastercard
+1.66562E+12,Broom - Angled,$14.50 ,28,americanexpress
+1.6666E+12,Island Oasis - Ice Cream Mix,$36.61 ,25,mastercard
+1.66508E+12,Beans - Fine,$22.03 ,49,mastercard
+1.66573E+12,Lid - 3oz Med Rec,$23.94 ,10,mastercard
+1.6647E+12,Easy Off Oven Cleaner,$11.20 ,45,visa
+1.66268E+12,Ham Black Forest,$32.65 ,11,visa
+1.6663E+12,Appetizer - Southwestern,$12.83 ,36,americanexpress
+1.66419E+12,Fennel - Seeds,$21.75 ,39,visa
+1.66282E+12,Red Cod Fillets - 225g,$16.50 ,50,mastercard
+1.66621E+12,Energy Drink - Redbull 355ml,$22.87 ,46,visa
+1.66649E+12,Pork Casing,$27.28 ,2,americanexpress
+1.66536E+12,Ice Cream Bar - Oreo Cone,$25.19 ,15,mastercard
+1.66673E+12,Shallots,$33.47 ,12,visa
+1.66615E+12,Wanton Wrap,$24.73 ,19,mastercard
+1.66668E+12,Sour Puss - Tangerine,$34.37 ,34,americanexpress
+1.66442E+12,"Mushrooms - Black, Dried",$38.94 ,33,visa
+1.66538E+12,"Tart Shells - Barquettes, Savory",$26.74 ,35,americanexpress
+1.66391E+12,Clam - Cherrystone,$16.70 ,22,visa
+1.66256E+12,French Pastries,$18.01 ,29,americanexpress
+1.66339E+12,Lamb - Ground,$24.98 ,49,visa
+1.66368E+12,Wine - Clavet Saint Emilion,$33.69 ,22,mastercard
+1.66451E+12,"Lid - High Heat, Super Clear",$20.12 ,5,mastercard
+1.6646E+12,Pail With Metal Handle 16l White,$21.87 ,44,visa
+1.66669E+12,"Corn - Cream, Canned",$28.62 ,43,americanexpress
+1.66401E+12,Wine - Shiraz South Eastern,$10.12 ,1,visa
+1.66448E+12,Cup - Translucent 7 Oz Clear,$37.59 ,24,mastercard
+1.66585E+12,Sauce - Chili,$38.95 ,12,americanexpress
+1.66276E+12,Cheese - Gorgonzola,$18.22 ,4,mastercard
+1.66578E+12,Wine - Masi Valpolocell,$31.66 ,29,visa
+1.66639E+12,"Pasta - Cannelloni, Sheets, Fresh",$21.71 ,11,mastercard
+1.66605E+12,Cheese - Wine,$18.14 ,47,americanexpress
+1.66231E+12,Mix - Cocktail Ice Cream,$11.88 ,41,mastercard
+1.6636E+12,Icecream - Dibs,$14.18 ,4,americanexpress
+1.66376E+12,Cheese - Valancey,$32.40 ,30,visa
+1.66374E+12,Hot Chocolate - Individual,$35.41 ,26,visa
+1.66289E+12,"Crush - Orange, 355ml",$27.66 ,42,mastercard
+1.6635E+12,"Mushroom - Shitake, Dry",$32.80 ,2,mastercard
+1.66559E+12,Mountain Dew,$28.95 ,43,americanexpress
+1.66643E+12,Truffle Cups - White Paper,$35.08 ,33,visa
+1.66647E+12,Lobster - Live,$28.16 ,14,mastercard
+1.66648E+12,"Jam - Raspberry,jar",$22.26 ,20,mastercard
+1.66296E+12,Crab Meat Claw Pasteurise,$33.94 ,21,americanexpress
+1.66389E+12,"Lamb - Leg, Boneless",$23.46 ,16,americanexpress
+1.66645E+12,"Pork - Loin, Bone - In",$29.67 ,32,visa
+1.66578E+12,Bread - Raisin Walnut Oval,$36.84 ,7,visa
+1.66416E+12,Wine - Prem Select Charddonany,$37.99 ,14,visa
+1.66523E+12,Oregano - Fresh,$31.08 ,14,americanexpress
+1.6636E+12,Tomatillo,$25.11 ,13,visa
+1.66733E+12,"Chicken - Leg, Fresh",$14.73 ,37,visa
+1.66318E+12,Creme De Cacao White,$29.32 ,48,americanexpress
+1.66443E+12,Ketchup - Tomato,$15.94 ,37,mastercard
+1.66291E+12,Tomatoes,$25.23 ,34,mastercard
+1.66503E+12,Longos - Greek Salad,$23.37 ,32,visa
+1.6649E+12,"Jam - Marmalade, Orange",$18.27 ,27,mastercard
+1.66215E+12,"Pepper - Paprika, Hungarian",$10.73 ,46,mastercard
+1.66378E+12,"Fish - Base, Bouillion",$22.37 ,23,mastercard
+1.66273E+12,Kirsch - Schloss,$39.18 ,45,americanexpress
+1.66481E+12,Sterno - Chafing Dish Fuel,$39.93 ,12,americanexpress
+1.66603E+12,Cabbage - Nappa,$14.67 ,33,americanexpress
+1.66733E+12,Icecream - Dstk Cml And Fdg,$11.17 ,34,americanexpress
+1.66517E+12,Tomatoes - Grape,$17.36 ,8,americanexpress
+1.66201E+12,Mints - Striped Red,$33.42 ,40,mastercard
+1.66484E+12,Creme De Banane - Marie,$18.05 ,21,mastercard
+1.66262E+12,Sole - Fillet,$31.31 ,34,mastercard
+1.66329E+12,"Shrimp - Baby, Warm Water",$26.26 ,11,americanexpress
+1.66458E+12,Rice Wine - Aji Mirin,$24.25 ,40,mastercard
+1.66372E+12,Cup - Translucent 7 Oz Clear,$20.18 ,26,mastercard
+1.66414E+12,Wine - Magnotta - Cab Franc,$29.80 ,33,americanexpress
+1.66237E+12,Water - San Pellegrino,$30.93 ,42,mastercard
+1.66636E+12,Wine - Prem Select Charddonany,$11.27 ,14,mastercard
+1.66267E+12,Sugar - Icing,$20.54 ,17,mastercard
+1.66279E+12,Water - Evian 355 Ml,$37.75 ,45,mastercard
+1.66304E+12,Wanton Wrap,$32.84 ,25,americanexpress
+1.6664E+12,Soap - Hand Soap,$19.36 ,40,mastercard
+1.66352E+12,"Rum - Cream, Amarula",$34.92 ,5,visa
+1.66571E+12,Dikon,$10.25 ,48,americanexpress
+1.66654E+12,Chips Potato Reg 43g,$26.06 ,39,americanexpress
+1.66278E+12,Remy Red Berry Infusion,$24.05 ,49,visa
+1.66733E+12,"Syrup - Monin, Swiss Choclate",$28.06 ,49,mastercard
+1.66284E+12,"Nut - Cashews, Whole, Raw",$24.60 ,29,visa
+1.66459E+12,Carbonated Water - Cherry,$15.63 ,7,americanexpress
+1.66419E+12,Wine - Vidal Icewine Magnotta,$23.99 ,35,americanexpress
+1.66634E+12,Shallots,$39.82 ,50,americanexpress
+1.66362E+12,Quail - Jumbo,$29.79 ,14,americanexpress
+1.6637E+12,Tuna - Yellowfin,$14.57 ,28,americanexpress
+1.66207E+12,Coffee - Decaffeinato Coffee,$27.59 ,11,americanexpress
+1.66422E+12,"Shrimp - Baby, Warm Water",$31.18 ,34,visa
+1.66596E+12,"Sauce - Apple, Unsweetened",$34.51 ,43,visa
+1.66699E+12,Wine - Cousino Macul Antiguas,$15.62 ,33,americanexpress
+1.66589E+12,Liners - Baking Cups,$20.31 ,22,mastercard
+1.66449E+12,Brandy Cherry - Mcguinness,$37.54 ,37,mastercard
+1.66655E+12,Table Cloth 54x54 Colour,$38.99 ,33,visa
+1.66343E+12,Bread - Granary Small Pull,$19.29 ,28,americanexpress
+1.66665E+12,"Red Snapper - Fresh, Whole",$23.35 ,7,visa
+1.66344E+12,Lid - 0090 Clear,$30.45 ,45,mastercard
+1.66488E+12,Chutney Sauce,$38.84 ,21,americanexpress
+1.66304E+12,Figs,$13.57 ,45,mastercard
+1.66207E+12,"Wine - Red, Harrow Estates, Cab",$10.85 ,22,americanexpress
+1.6638E+12,Clams - Canned,$19.26 ,30,visa
+1.66523E+12,Sugar - White Packet,$10.99 ,41,americanexpress
+1.66466E+12,Grouper - Fresh,$31.28 ,47,mastercard
+1.66231E+12,Sausage - Breakfast,$18.57 ,49,mastercard
+1.66229E+12,Oven Mitts 17 Inch,$12.46 ,18,americanexpress
+1.66445E+12,"Turkey - Breast, Bone - In",$21.11 ,32,mastercard
+1.66634E+12,Garbage Bags - Clear,$10.80 ,36,americanexpress
+1.66397E+12,Tea Peppermint,$39.76 ,48,mastercard
+1.66402E+12,Raspberries - Fresh,$24.18 ,28,visa
+1.66242E+12,Grapes - Black,$27.77 ,41,mastercard
+1.66604E+12,"Sauce - White, Mix",$14.65 ,46,mastercard
+1.66312E+12,Sole - Fillet,$38.60 ,19,visa
+1.66716E+12,Sausage - Liver,$17.42 ,48,mastercard
+1.66524E+12,Bread - Petit Baguette,$17.46 ,24,visa
+1.66675E+12,Cloves - Whole,$23.74 ,6,mastercard
+1.66524E+12,Containter - 3oz Microwave Rect.,$20.85 ,49,visa
+1.66328E+12,Grapes - Red,$36.95 ,17,mastercard
+1.66245E+12,Beans - Wax,$11.40 ,16,mastercard
+1.66294E+12,"Tendrils - Baby Pea, Organic",$26.71 ,30,visa
+1.66484E+12,"Trout - Hot Smkd, Dbl Fillet",$36.94 ,37,visa
+1.66528E+12,Lotus Root,$17.19 ,8,americanexpress
+1.66313E+12,Trueblue - Blueberry,$21.89 ,32,visa
+1.66713E+12,Currants,$36.80 ,18,americanexpress
+1.66292E+12,Chocolate - Mi - Amere Semi,$12.07 ,42,mastercard
+1.66458E+12,"Olives - Black, Pitted",$18.34 ,26,americanexpress
+1.66277E+12,Oven Mitt - 13 Inch,$33.67 ,18,mastercard
+1.6643E+12,"Seedlings - Buckwheat, Organic",$34.67 ,23,visa
+1.66515E+12,Extract - Raspberry,$17.59 ,49,visa
+1.66515E+12,Fib N9 - Prague Powder,$19.15 ,11,mastercard
+1.66369E+12,Appetizer - Escargot Puff,$12.24 ,23,americanexpress
+1.66383E+12,"Wine - Magnotta, White",$32.73 ,1,mastercard
+1.66389E+12,Cheese - Pont Couvert,$28.44 ,17,americanexpress
+1.6651E+12,"Pork - Loin, Center Cut",$27.53 ,8,mastercard
+1.66469E+12,Plaintain,$29.56 ,5,visa
+1.66469E+12,"Wine - Red, Concha Y Toro",$14.06 ,6,mastercard
+1.66691E+12,Pate - Liver,$36.55 ,9,mastercard
+1.66292E+12,Pastry - Apple Muffins - Mini,$38.70 ,32,americanexpress
+1.66263E+12,"Wine - Red, Gallo, Merlot",$39.22 ,48,americanexpress
+1.66649E+12,Scallops - U - 10,$37.82 ,43,visa
+1.66689E+12,Monkfish - Fresh,$27.70 ,48,americanexpress
+1.66445E+12,Bread Roll Foccacia,$35.18 ,1,americanexpress
+1.66623E+12,Godiva White Chocolate,$27.35 ,46,americanexpress
+1.66546E+12,Onions Granulated,$11.03 ,35,mastercard
+1.66706E+12,Arizona - Green Tea,$35.71 ,37,visa
+1.66261E+12,Lid - 0090 Clear,$28.50 ,16,mastercard
+1.66583E+12,Tuna - Loin,$30.36 ,14,americanexpress
+1.66603E+12,Turkey Tenderloin Frozen,$15.45 ,28,visa
+1.66299E+12,Pear - Asian,$31.28 ,33,mastercard
+1.66609E+12,Cheese Cloth No 100,$17.54 ,44,mastercard
+1.66642E+12,Bag - Regular Kraft 20 Lb,$32.86 ,26,visa
+1.66465E+12,Wonton Wrappers,$18.85 ,17,visa
+1.66507E+12,Sauce - Sesame Thai Dressing,$38.89 ,34,americanexpress
+1.66604E+12,"Bread - Pullman, Sliced",$25.62 ,30,americanexpress
+1.66242E+12,"Fish - Base, Bouillion",$27.92 ,9,americanexpress
+1.66693E+12,Evaporated Milk - Skim,$22.15 ,22,americanexpress
+1.66536E+12,Chips - Assorted,$20.65 ,22,americanexpress
+1.66441E+12,Otomegusa Dashi Konbu,$25.47 ,45,visa
+1.66228E+12,Sambuca - Ramazzotti,$36.98 ,11,mastercard
+1.66341E+12,Sorrel - Fresh,$22.14 ,2,visa
+1.66308E+12,"Wine - Magnotta - Red, Baco",$36.14 ,42,mastercard
+1.66716E+12,Pork - Smoked Back Bacon,$28.45 ,15,americanexpress
+1.66409E+12,Chicken - Whole,$31.91 ,6,visa
+1.66488E+12,Garbag Bags - Black,$13.71 ,49,mastercard
+1.66617E+12,"Mushroom - Chantrelle, Fresh",$32.24 ,31,mastercard
+1.66349E+12,"Nut - Cashews, Whole, Raw",$13.02 ,45,mastercard
+1.6631E+12,Cheese - Valancey,$12.16 ,29,americanexpress
+1.66607E+12,Daikon Radish,$35.10 ,17,visa
+1.66313E+12,Cake - Lemon Chiffon,$15.44 ,29,visa
+1.66466E+12,Wine - Zinfandel California 2002,$28.10 ,35,visa
+1.66555E+12,Jicama,$19.19 ,11,americanexpress
+1.66599E+12,Muffin Mix - Morning Glory,$20.24 ,39,visa
+1.66457E+12,Cheese - Ermite Bleu,$35.60 ,28,visa
+1.66567E+12,Pastry - Plain Baked Croissant,$16.19 ,36,visa
+1.66522E+12,Longos - Cheese Tortellini,$15.88 ,47,americanexpress
+1.66555E+12,Goat - Whole Cut,$37.75 ,2,americanexpress
+1.66451E+12,Buffalo - Striploin,$31.40 ,34,visa
+1.6661E+12,Longos - Assorted Sandwich,$39.54 ,27,visa
+1.66202E+12,Pepper - Green,$32.97 ,24,mastercard
+1.66438E+12,Tea - Grapefruit Green Tea,$24.74 ,44,americanexpress
+1.66421E+12,Pickerel - Fillets,$10.91 ,1,mastercard
+1.66633E+12,Compound - Rum,$13.25 ,32,americanexpress
+1.66506E+12,Table Cloth 90x90 Colour,$17.59 ,32,americanexpress
+1.66438E+12,Cookie Dough - Double,$33.27 ,2,americanexpress
+1.6665E+12,Evaporated Milk - Skim,$12.73 ,41,americanexpress
+1.66427E+12,"Lemonade - Mandarin, 591 Ml",$11.11 ,19,visa
+1.664E+12,Beer - Guiness,$13.32 ,24,visa
+1.66282E+12,Wine - Sauvignon Blanc Oyster,$15.76 ,25,visa
+1.6645E+12,Cheese - Comtomme,$28.23 ,46,mastercard
+1.66664E+12,Longos - Lasagna Beef,$25.73 ,33,visa
+1.66431E+12,"Roe - Lump Fish, Red",$10.12 ,30,americanexpress
+1.66632E+12,Bay Leaf,$34.39 ,3,mastercard
+1.66564E+12,"Trout - Rainbow, Frozen",$21.44 ,38,americanexpress
+1.66207E+12,The Pop Shoppe - Root Beer,$30.64 ,40,visa
+1.66478E+12,Coffee - Dark Roast,$30.25 ,4,americanexpress
+1.66539E+12,Tray - 16in Rnd Blk,$31.99 ,39,visa
+1.66339E+12,Mix - Cappucino Cocktail,$36.19 ,29,americanexpress
+1.66463E+12,Appetizer - Assorted Box,$16.80 ,43,visa
+1.66343E+12,Potatoes - Peeled,$35.27 ,30,americanexpress
+1.66248E+12,Kolrabi,$14.73 ,7,visa
+1.66382E+12,Chip - Potato Dill Pickle,$34.01 ,35,mastercard
+1.66279E+12,Containter - 3oz Microwave Rect.,$23.38 ,5,mastercard
+1.66499E+12,Pepper - Jalapeno,$34.80 ,1,mastercard
+1.66409E+12,Chicken - Soup Base,$31.86 ,18,visa
+1.66256E+12,Pastry - Plain Baked Croissant,$10.14 ,12,americanexpress
+1.66285E+12,Chicken - Ground,$31.00 ,2,mastercard
+1.66533E+12,Rabbit - Saddles,$29.76 ,30,visa
+1.66368E+12,"Wine - White, Schroder And Schyl",$23.57 ,23,visa
+1.66231E+12,Longos - Chicken Caeser Salad,$37.12 ,37,visa
+1.66365E+12,Coffee Guatemala Dark,$16.08 ,48,visa
+1.66235E+12,Eggplant Oriental,$25.86 ,16,visa
+1.66363E+12,"Radish - Black, Winter, Organic",$31.01 ,27,americanexpress
+1.664E+12,Lobster - Canned Premium,$26.41 ,26,americanexpress
+1.66344E+12,"Shrimp - 16 - 20 Cooked, Peeled",$37.33 ,9,mastercard
+1.66322E+12,White Baguette,$27.14 ,27,americanexpress
+1.66657E+12,Flower - Commercial Bronze,$24.36 ,23,visa
+1.66658E+12,Soup - Campbells Asian Noodle,$32.61 ,7,mastercard
+1.66247E+12,Soup - Cream Of Broccoli,$24.11 ,30,mastercard
+1.66405E+12,Water - Tonic,$27.67 ,33,mastercard
+1.66493E+12,Cookie Dough - Chocolate Chip,$39.90 ,48,mastercard
+1.66669E+12,Truffle Cups - White Paper,$28.70 ,17,mastercard
+1.66541E+12,Venison - Denver Leg Boneless,$19.59 ,43,mastercard
+1.66679E+12,"Artichoke - Bottom, Canned",$38.18 ,18,mastercard
+1.66509E+12,Flour Pastry Super Fine,$37.74 ,7,americanexpress
+1.66708E+12,Tahini Paste,$29.47 ,4,mastercard
+1.66416E+12,The Pop Shoppe - Cream Soda,$16.15 ,42,mastercard
+1.66636E+12,Pail For Lid 1537,$11.94 ,7,americanexpress
+1.66589E+12,Tea - Honey Green Tea,$32.42 ,46,visa
+1.66721E+12,Hot Choc Vending,$10.73 ,24,americanexpress
+1.66628E+12,Wine - George Duboeuf Rose,$14.92 ,27,americanexpress
+1.66274E+12,Table Cloth 120 Round White,$36.26 ,2,visa
+1.6639E+12,Beer - Sleemans Honey Brown,$26.17 ,47,mastercard
+1.66653E+12,Grapes - Black,$33.61 ,29,visa
+1.66206E+12,Potatoes - Pei 10 Oz,$30.06 ,24,visa
+1.6641E+12,"Beef - Ox Tail, Frozen",$21.05 ,21,visa
+1.66517E+12,Pears - Bosc,$28.34 ,32,mastercard
+1.66326E+12,Beer - Sleeman Fine Porter,$32.48 ,3,mastercard
+1.66299E+12,Filter - Coffee,$25.50 ,13,americanexpress
+1.66429E+12,"Coke - Classic, 355 Ml",$32.50 ,21,mastercard
+1.66333E+12,"Juice - Tomato, 48 Oz",$36.25 ,18,mastercard
+1.66471E+12,Iced Tea Concentrate,$32.42 ,39,mastercard
+1.66667E+12,"Tomatoes - Cherry, Yellow",$35.48 ,36,americanexpress
+1.66214E+12,Beef Tenderloin Aaa,$12.11 ,6,mastercard
+1.66598E+12,Wasabi Paste,$15.28 ,42,visa
+1.66381E+12,Wine - Piper Heidsieck Brut,$30.19 ,17,mastercard
+1.66503E+12,Wine - Ruffino Chianti Classico,$18.38 ,3,visa
+1.66655E+12,"Shrimp, Dried, Small / Lb",$29.67 ,49,americanexpress
+1.66326E+12,Thyme - Fresh,$15.45 ,18,visa
+1.66353E+12,Peppercorns - Pink,$16.68 ,37,mastercard
+1.66706E+12,Wine - Vovray Sec Domaine Huet,$38.91 ,25,visa
+1.66415E+12,Mini - Vol Au Vents,$38.37 ,39,mastercard
+1.66652E+12,Huck Towels White,$24.79 ,38,mastercard
+1.66599E+12,Raspberries - Fresh,$34.18 ,17,visa
